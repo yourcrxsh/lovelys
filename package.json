@@ -1,0 +1,19 @@
+{
+  "name": "youn-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "prequest": "^1.0.0",
+    "vk-io": "^4.0.0-rc.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+  "node": "14.17.6"
+  },
+  "author": "",
+  "license": "ISC"
+}

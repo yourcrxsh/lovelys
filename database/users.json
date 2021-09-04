@@ -1,0 +1,75 @@
+[
+	{
+		"id": 423039997,
+		"uid": 1,
+		"balance": 3.7503940142128935e+24,
+		"bank": 1000010000001,
+		"btc": 10100004101701,
+		"farm_btc": 0,
+		"farms": 0,
+		"farmslimit": 200,
+		"energy": 10,
+		"opit": 10000002,
+		"biz": 18900000000,
+		"zhelezo": 12030120301269,
+		"zoloto": 120123002304,
+		"almaz": 10000000213001230,
+		"bizlvl": 30,
+		"nicklimit": 200,
+		"rating": 4,
+		"regDate": 1012001,
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false,
+			"poxod": false,
+			"poxod2": false,
+			"kopat": false,
+			"hack": true
+		},
+		"tag": "Создатель / Разработчик",
+		"work": 9,
+		"business": 11,
+		"notifications": true,
+		"exp": 1,
+		"level": 2020,
+		"referal": null,
+		"promo": false,
+		"transport": {
+			"car": 32,
+			"yacht": 13,
+			"airplane": 17,
+			"helicopter": 13
+		},
+		"realty": {
+			"home": 15,
+			"apartment": 8
+		},
+		"misc": {
+			"phone": 10,
+			"farm": 0,
+			"pet": 8,
+			"farm_btc": 3500000000000
+		},
+		"settings": {
+			"firstmsg": false,
+			"adm": 5,
+			"trade": true,
+			"old": false,
+			"limit": 1000000
+		},
+		"pet": {
+			"lvl": 21,
+			"poterl": false
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": [
+				13,
+				3,
+				13
+			]
+		}
+	}
+]
